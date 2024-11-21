@@ -1,1 +1,1 @@
-# odin-recipes
+# This is an HTML project created for The Odin Project Coursework. 
